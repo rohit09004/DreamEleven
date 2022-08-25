@@ -6,6 +6,8 @@ public class pom1 {
 		// TODO Auto-generated method stub
  
 		System.out.println("MidScale1");
+		System.out.println("MidScale2");
+		System.out.println("MidScale3");
 	}
 
 }
